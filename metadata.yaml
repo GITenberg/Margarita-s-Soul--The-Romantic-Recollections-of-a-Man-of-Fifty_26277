@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9246
     wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26277#Margarita-s-Soul--The-Romantic-Recollections-of-a-Man-of-Fifty
 gutenberg_issued: '2008-08-12'
 gutenberg_type: Text
 identifiers:
