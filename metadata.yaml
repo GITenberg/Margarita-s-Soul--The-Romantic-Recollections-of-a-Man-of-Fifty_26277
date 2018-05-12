@@ -1,0 +1,41 @@
+_repo: Margarita-s-Soul--The-Romantic-Recollections-of-a-Man-of-Fifty_26277
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, J. Scott (John Scott)
+    alias: Williams, John Scott
+    birthdate: 1877
+    deathdate: 1975
+    gutenberg_agent_id: '28391'
+    url: http://www.gutenberg.org/2009/agents/28391
+covers:
+- cover_type: archival
+  image_path: 26277-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bacon, Josephine Daskam
+    aliases:
+    - Bacon, Josephine Dodge Daskam
+    - Daskam, Josephine Dodge
+    - Bacon, Selden, Mrs.
+    - Lovell, Ingraham
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '9246'
+    url: http://www.gutenberg.org/2009/agents/9246
+    wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
+description: ''
+gutenberg_issued: '2008-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26277'
+  lccn: 09026806
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'Margarita''s Soul: The Romantic Recollections of a Man of Fifty'
+url: http://www.gutenberg.org/ebooks/26277
